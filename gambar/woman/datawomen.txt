@@ -1,0 +1,75 @@
+kategori :	mens
+			T-Shirt
+			Jacket
+			Kemeja
+			Polo Shirt
+		womens
+		Cardigan :
+		1. bright yellow
+			SKU:  WC01
+			des:  Main Fabric: Cotton
+                              Fabric main ingredients content: 65 (%)
+                        HARGa : 120.000
+   		2. Jetting Buy
+			SKU : WC02
+			des : 100% Brand new & High quality, Material: Chiffon
+	                      Sleeve: 41CM/16.1"
+			      Length: 86CM/33.9" 
+			harga : 95000
+		3. Cyber Batwing
+			SKU : WC03
+			des : Technics: Computer Knitted, Decoration: Pockets
+		              Closure Type: Open Stitch, Sleeve Style: Batwing Sleeve
+    	                      Material: Cotton	
+		Dress :
+		1. Fancyqube
+			SKU : wd01
+			des : Fabric Type:    Chiffon, Above Knee,Print, Off the Shoulder
+			      Casual, Cotton,Polyester
+			harga : 62.000
+                2.Hequ Short Sleeve
+			SKU : WD02
+			des : 100% Brand New, Cap Sleeve, Chiffon Casual Shirt,Mini Dress With Belt
+    			      Women Casual Dress 
+			harga :113.000
+		3. Hequ Collar Sleeveless
+			SKU : WD03
+			des : This dress is suitable for the summer ,it is easy to match any shoes,
+			      New Style,Sexy and beauty.
+		T-Shirt :
+		1. Blue lans Batwing
+		   	SKU : WT01
+			des : Material chiffon, Regular size, convenient to use, easily washed
+    			      neat stitching
+
+			harga: 57.000
+		2. Fancyqube
+			SKU : WT02
+			des : Fancyqube clothes, for fashion design, has a unique temperament,
+		 	      with the world trend. Due to the difference between different monitors,
+ 			      the picture may not reflect the actual color of the item. 
+			harga: 57.000
+		3. Zanzea
+			SKU : WT03
+			des : Casual T Shirt, Chiffon, Size may be 2cm/1 inch inaccuracy due to hand measure
+			harga : 106.000			
+		Jacket :
+		1. Army Rose
+			SKU : WJ01
+		        des : Military, Material:Cotton+Polyester, Color:Camo
+			harga : 250.000
+		2. Petit Berry
+			SKU : WJ02
+			des : Original Petit Berry by Nissen Japan, Ladies Sweatshirt 
+   		              Soft and comfortable to wearr,good cotton Baby Terry
+			harga: 220.000
+		3. Sleeve Outwear
+			SKU : WJ03
+			des : Style:Coat/Jacket/Boleros & Shrugs, Material:Polyester Faux Leather
+			harga : 230.000
+		kids 
+			T-Shirt
+			Jacket
+			SleepSuit
+			Jumper Baby
+		

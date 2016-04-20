@@ -1,0 +1,122 @@
+kids 
+	Hoodie
+		1. sherpa Hoodie
+		- sku	:	BH01
+		- idr  	:	120.000,-
+		- DES  	: 	Keep baby warm in this sweet layer,
+					Front pockets, 
+					Front pockets
+					hood lining : 100% polyester jersey 
+		2. Snow Fleece Hoodie
+		- sku 	:	BH02
+		- idr	:	150.000,-
+		- des	:	With little lamb ears, 
+					this super soft snow fleece keeps her warm, 
+					cuddly and cute all winter!
+					Zip-front design
+					Jersey-lined hood
+					3D ears
+					Front pockets
+					Hood lining: 100% cotton jersey
+		3. Indigo French Terry Rugby Hoodie
+		- sku	:	BH03
+		- idr	:	150.000,-
+		- des	:	Keep him warm and comfy in this vintage-looking sporty hoodie.
+					Zip-front design
+					Ribbed cuffs & hem
+					Screen-printed slogan
+					Front pockets
+					Rope-dyed indigo
+					Pre-washed for softness
+					100% French terry cotton
+	
+	Jacket
+		1. Sherpa Jacket
+		- sku	:	BJ01
+		- idr	:	200.000,-
+		- des	:	This soft sherpa gets sporty with matte athletic details! 
+					With contrast binding, lining and zipper pulls, 
+					this jacket is a stylish and comfy layer for your little guy.
+					Soft, fuzzy sherpa
+					Jersey-lined body
+					Contrast matte athletic front pocket & outer collar
+					Zip-close pockets
+		2. Carter's Colorblock Jacket
+		- sku	:	BJ02
+		- idr	:	230.000,-
+		- des	:	Zip-front design. 
+					Fully lined . 
+					Side zip pockets.
+					100% polyester
+					
+		3. Lightweight Quilted Floral Bomber Jacket
+		- sku	:	BJ03
+		- idr	:	240.000,-
+		- des	:	With a quilted design and pretty floral print, 
+					this zip-front bomber layers on a lot of style in one cute, 
+					lightweight piece.
+					Zip-front design
+					Full jersey lining
+					Shell & lining: 100% cotton jersey
+					Polyester fill
+	SleepSuit
+		1. Fleece Sleepsuit
+		- sku	:	BS01
+		- idr	:	110.000,-
+		- des	:	In soft fleece, 
+					this sleepsuit will keep her warm and snug all night long. 
+					A closed bottom makes sure her toes stay cozy, too!
+					Zip-front design
+					Long sleeves
+					Ribbed cuffs and neckline
+					100% polyester microfleece
+		2. Appliqué Fleece Sleepsuit
+		- sku	:	BS02
+		- idr	:	110.000,-
+		- des	:	Perfect for colder nights, 
+					this soft fleece 1-piece will keep baby warm and snug all night.
+					Zip-front design
+					Worry-free safety tab
+					Character appliqué
+					100% polyester microfleece
+					
+		3. Navy Little Brother Sleepsuit 
+		- sku	:	BS03
+		- idr	:	100.000,-
+		- des	:	Crafted with durable twill, 
+					a cinched waist and lots of pockets, 
+					this utility jacket is just right for your stylish, 
+					Cinched waist
+					Buttons at cuffs
+					Functional flap pockets
+					100% cotton twill
+	Jumper Baby
+		1. 2-Piece Jumper Set
+		- sku	:	BJ01
+		- idr	:	230.000,-
+		- des	:	Perfect for school or play,
+					she'll love wearing this leopard print French terry over soft cotton red!
+					2-piece set
+					Nickel-free snaps on reinforced panel
+					Adjustable snap straps
+					Bodysuit: 100% cotton rib
+					Jumper: 100% French terry cotton
+		2. 2-Piece Cotton Bib Overall Set
+		- sku	:	BJ02
+		- idr	:	235.000,-
+		- des	:	Super cute and comfy, 
+					these floral French terry overalls pair up with a soft tee for an outfit that's just right for school or play.
+					2-piece set
+					Adjustable snap straps
+					Snaps at the legs
+					Tee: 100% cotton
+					Overalls: 100% French terry cotton
+		3. 2-Piece multi Jumper Set
+		- sku	:	BJ03
+		- idr	:	220.000,-
+		- des	:	Perfect for school or play, she'll love wearing this leopard print French terry over soft cotton red!
+					2-piece set
+					Nickel-free snaps on reinforced panel
+					Adjustable snap straps
+					Bodysuit: 100% cotton rib
+					Jumper: 100% French terry cotton
