@@ -1,0 +1,2 @@
+# Sevenclothing 
+Sevenclothing adalah web e-commerse yang dikembangkan dalam rangka pembelajaran dalam pemrograman web. Masih banyak kekurangan dari web ini. Terima Kasih saya tujukan kepada berbagai pihak yang membantu dalam pembelajaran web ini khususunya ide, rancangan, dan ilmu ilmu yang lainnya. Terima kasih juga kepada hakkoblogs atas gambaran rancangan template yang memunculkan ide ide baru bagi saya.   
